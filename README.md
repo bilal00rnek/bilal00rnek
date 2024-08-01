@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilal00rnek
+- 👋 Hi, I’m Bilal
 - 👀 I’m interested in software
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me instagram @bilal0rnek
